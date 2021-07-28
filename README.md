@@ -17,4 +17,8 @@
 
 ![archlinux](./screenshots/zjuyk-archlinux-1.png)
 
+- [zjuyk-gentoo](https://gitlab.com/zjuyk/gentoo-dotfiles)
+
+![gentoo](./screenshots/zjuyk-gentoo-1.png)
+
 
