@@ -13,3 +13,8 @@
 
 以下排名不分先后
 
+- [zjuyk-archlinux](https://github.com/zjuyk/dotfiles)
+
+![archlinux](./screenshots/zjuyk-archlinux-1.png)
+
+
