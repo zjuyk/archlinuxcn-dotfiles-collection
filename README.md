@@ -21,4 +21,6 @@
 
 ![gentoo](./screenshots/zjuyk-gentoo-1.png)
 
+- [tonyfettes-archlinux](https://github.com/tonyfettes/dotfiles)
 
+![archlinux](./screenshots/tonyfettes-archlinux-1.png)
