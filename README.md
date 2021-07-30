@@ -37,6 +37,10 @@
 
 - [lilydjwg-dotvim](https://github.com/lilydjwg/dotvim)
 
+- [lilydjwg-dotzsh](https://github.com/lilydjwg/dotzsh)
+
 - [NickCao-nixos](https://gitlab.com/NickCao/flakes)
 
-- [lilydjwg-dotzsh](https://github.com/lilydjwg/dotzsh)
+- [AlynxZhou-zsh](https://github.com/AlynxZhou/alynx-zsh-config)
+
+- [AlynxZhou-rime](https://github.com/AlynxZhou/alynx-rime-config)
