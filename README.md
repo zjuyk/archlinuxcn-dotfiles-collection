@@ -33,6 +33,8 @@
 
 - [axionl-archlinux](https://github.com/axionl/dotfiles)
 
+![axionl-archlinux](https://user-images.githubusercontent.com/8396456/127595408-3e03dfa6-1256-4fcf-bd96-227a06bb5449.png)
+
 - [lilydjwg-dotvim](https://github.com/lilydjwg/dotvim)
 
 - [lilydjwg-dotzsh](https://github.com/lilydjwg/dotzsh)
