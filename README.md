@@ -32,3 +32,7 @@
 - [liolok-archlinux](https://github.com/liolok/dotfiles)
 
 - [axionl-archlinux](https://github.com/axionl/dotfiles)
+
+- [lilydjwg-dotvim](https://github.com/lilydjwg/dotvim)
+
+- [lilydjwg-dotzsh](https://github.com/lilydjwg/dotzsh)
