@@ -49,3 +49,8 @@
 
 - [ShadowRZ-nixos](https://github.com/ShadowRZ/flakes)
 
+- [weearc-archlinux](https://github.com/weearc/dotfile)
+
+![Weearc](./screenshots/weearc-arch.png)
+
+
