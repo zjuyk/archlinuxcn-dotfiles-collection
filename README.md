@@ -44,3 +44,5 @@
 - [AlynxZhou-zsh](https://github.com/AlynxZhou/alynx-zsh-config)
 
 - [AlynxZhou-rime](https://github.com/AlynxZhou/alynx-rime-config)
+
+![AlynxZhou](./screenshots/AlynxZhou.png)
