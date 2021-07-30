@@ -46,3 +46,6 @@
 - [AlynxZhou-rime](https://github.com/AlynxZhou/alynx-rime-config)
 
 ![AlynxZhou](./screenshots/AlynxZhou.png)
+
+- [ShadowRZ-nixos](https://github.com/ShadowRZ/flakes)
+
