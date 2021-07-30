@@ -37,4 +37,6 @@
 
 - [lilydjwg-dotvim](https://github.com/lilydjwg/dotvim)
 
+- [NickCao-nixos](https://gitlab.com/NickCao/flakes)
+
 - [lilydjwg-dotzsh](https://github.com/lilydjwg/dotzsh)
