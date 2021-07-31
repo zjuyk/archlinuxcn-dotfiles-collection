@@ -53,4 +53,7 @@
 
 ![Weearc](./screenshots/weearc-arch.png)
 
+- [someoneinjd-archlinux](https://github.com/someoneinjd/dotfiles)
+
+![someoneinjd](./screenshots/someoneinjd-arch.png)
 
