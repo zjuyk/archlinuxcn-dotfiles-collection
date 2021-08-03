@@ -61,3 +61,28 @@
 
 ![MidAutumnMoon](./screenshots/MidAutumnMoon.png)
 
+- [bspwm-nord-dracula-bigsur](https://github.com/ayamir/bspwm-dotfiles)
+
+![bspwm-nord](./screenshots/ayamir-bspwm-nord.png)
+
+![bspwm-dracula](./screenshots/ayamir-bspwm-dracula.png)
+
+![bspwm-bigsur](./screenshots/ayamir-bspwm-bigsur.png)
+
+- [i3-arch](https://github.com/ayamir/i3-dotfiles)
+
+![i3-arch](./screenshots/ayamir-i3.png)
+
+- [nord-and-light](https://github.com/ayamir/nord-and-light)
+
+![nord-light-switch](./screenshots/ayamir-switch.gif)
+
+- [dwm-arch](https://github.com/ayamir/dwm-dotfiles)
+
+![dwm-dark](./screenshots/ayamir-dwm-dark.png)
+
+![dwm-light](./screenshots/ayamir-dwm-light.png)
+
+![dwmpo-dark](./screenshots/ayamir-dwmpo-dark.png)
+
+![dwmpo-light](./screenshots/ayamir-dwmpo-light.png)
