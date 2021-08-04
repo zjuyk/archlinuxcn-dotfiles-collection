@@ -89,3 +89,7 @@
 
 
 - [Coelacanthus-dot](https://github.com/CoelacanthusHex/dotfiles)
+- [RiverOnVenus-archlinux](https://github.com/RiverOnVenus/dotfiles)
+
+![RiverOnVenus](./screenshots/RiverOnVenus.png)
+
