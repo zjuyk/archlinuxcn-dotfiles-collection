@@ -93,3 +93,9 @@
 
 ![RiverOnVenus](./screenshots/RiverOnVenus.png)
 
+* [JCZhang-i3](https://github.com/flaviusbuffon/dotfiles)
+
+  
+
+![JC-I3](./screenshots/jczhang-i3.png)
+
