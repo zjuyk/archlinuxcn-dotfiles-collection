@@ -102,3 +102,7 @@
 - [YHNdnzj-archlinux](https://github.com/YHNdnzj/dotfiles)
 
 ![YHNdnzj-archlinux](./screenshots/YHNdnzj-archlinux.png)
+
+- [FollieHiyuki-dotfiles](https://git.disroot.org/FollieHiyuki/dotfiles.git)
+
+![FollieHiyuki-sway](./screenshots/FollieHiyuki-sway.png)
