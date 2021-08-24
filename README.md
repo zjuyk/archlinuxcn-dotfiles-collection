@@ -99,3 +99,6 @@
 
 ![JC-I3](./screenshots/jczhang-i3.png)
 
+- [YHNdnzj-archlinux](https://github.com/YHNdnzj/dotfiles)
+
+![YHNdnzj-archlinux](./screenshots/YHNdnzj-archlinux.png)
