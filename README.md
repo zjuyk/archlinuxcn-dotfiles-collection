@@ -57,9 +57,9 @@
 
 ![someoneinjd](./screenshots/someoneinjd-arch.png)
 
-- [MidAutumnMoon-.files](https://github.com/MidAutumnMoon/MidAutumnMoon)
+- [MidAutumnMoon-.#moon](https://github.com/MidAutumnMoon/MidAutumnMoon)
 
-![MidAutumnMoon](./screenshots/MidAutumnMoon.png)
+![Teapot Cmn.](./screenshots/MidAutumnMoon.png)
 
 - [bspwm-nord-dracula-bigsur](https://github.com/ayamir/bspwm-dotfiles)
 
