@@ -106,3 +106,7 @@
 - [FollieHiyuki-dotfiles](https://git.disroot.org/FollieHiyuki/dotfiles.git)
 
 ![FollieHiyuki-sway](./screenshots/FollieHiyuki-sway.png)
+
+- [ocfox-nixos](https://github.com/ocfox/nixos-config)
+
+![ocfox-nixos](./screenshots/ocfox-dwm.png)
