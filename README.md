@@ -110,3 +110,7 @@
 - [ocfox-nixos](https://github.com/ocfox/nixos-config)
 
 ![ocfox-nixos](./screenshots/ocfox-dwm.png)
+
+- [Avimitin's Dotfiles](https://github.com/Avimitin/Avimitin)
+
+![image](./screenshots/avimitin-dwm.png)
