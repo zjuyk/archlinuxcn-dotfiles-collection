@@ -114,3 +114,7 @@
 - [Avimitin's Dotfiles](https://github.com/Avimitin/Avimitin)
 
 ![image](./screenshots/avimitin-dwm.png)
+
+- [yuandi42's dotfiles](https://github.com/yuandi42/dotfiles)
+
+![yuandi42-dwm](./screenshots/yuandi42-dwm.png)
