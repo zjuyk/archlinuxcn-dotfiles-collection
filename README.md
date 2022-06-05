@@ -49,9 +49,9 @@
 
 - [ShadowRZ-nixos](https://github.com/ShadowRZ/flakes)
 
-- [weearc-archlinux](https://github.com/weearc/dotfile)
+- [weearc-fish-archlinux](https://github.com/weearc/dotfile)
 
-![Weearc](./screenshots/weearc-arch.png)
+![Weearc](https://raw.githubusercontent.com/weearc/dotfile/master/screenshot/screenshot-2022-06-04-16-27.png)
 
 - [someoneinjd-archlinux](https://github.com/someoneinjd/dotfiles)
 
