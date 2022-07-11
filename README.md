@@ -122,3 +122,17 @@
 - [lnkkerst's dotfiles](https://github.com/lnkkerst/dotfiles)
 
 ![lnkkerst-bspwm](./screenshots/lnkkerst-bspwm.png)
+
+- [Ruixi-rebirth sway-dotfiles](https://github.com/Ruixi-rebirth/sway-dotfiles)
+
+![Ruixi-rebirth-sway](./screenshots/Ruixi-rebirth-sway1.png)
+
+![Ruixi-rebirth-sway](./screenshots/Ruixi-rebirth-sway2.png)
+
+- [Ruixi-rebirth i3-dotfiles](https://github.com/Ruixi-rebirth/i3-dotfiles)
+
+![Ruixi-rebirth-i3](./screenshots/Ruixi-rebirth-i3.png)
+
+- [Ruixi-rebirth dotfiles](https://github.com/Ruixi-rebirth/dotfiles)
+
+![Ruixi-rebirth-i3](./screenshots/Ruixi-rebirth-i3.gif)
