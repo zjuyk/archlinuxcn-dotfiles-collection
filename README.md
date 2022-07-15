@@ -136,3 +136,6 @@
 - [Ruixi-rebirth dotfiles](https://github.com/Ruixi-rebirth/dotfiles)
 
 ![Ruixi-rebirth-i3](./screenshots/Ruixi-rebirth-i3.gif)
+
+- [Eliot's dotfiles](https://github.com/test482/dotfiles)
+
