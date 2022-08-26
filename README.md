@@ -107,9 +107,9 @@
 
 ![FollieHiyuki-sway](./screenshots/FollieHiyuki-sway.png)
 
-- [ocfox-nixos](https://github.com/ocfox/nixos-config)
+- [ocfox-sway](https://github.com/ocfox/nixos-config)
 
-![ocfox-nixos](./screenshots/ocfox-dwm.png)
+![ocfox-sway](./screenshots/ocfox-sway.png)
 
 - [Avimitin's Dotfiles](https://github.com/Avimitin/Avimitin)
 
