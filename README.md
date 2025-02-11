@@ -141,3 +141,7 @@
 
 - [PILIHU2022-Hyprland](https://github.com/PILIHU2022/My-dotfiles)
 ![PILIHU2022-Hyprland](./screenshots/PILIHU2022-Hyprland.jpg)
+
+- [LS-Shandong-archlinux](https://codeberg.org/LS-Shandong/dotfiles)
+
+![LS-Shandong-archlinux](./screenshots/LS-Shandong-archlinux.png)
