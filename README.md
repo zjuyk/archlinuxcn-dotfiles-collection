@@ -87,15 +87,13 @@
 
 ![dwmpo-light](./screenshots/ayamir-dwmpo-light.png)
 
-
 - [Coelacanthus-dot](https://github.com/CoelacanthusHex/dotfiles)
+
 - [RiverOnVenus-archlinux](https://github.com/RiverOnVenus/dotfiles)
 
 ![RiverOnVenus](./screenshots/RiverOnVenus.png)
 
-* [JCZhang-i3](https://github.com/flaviusbuffon/dotfiles)
-
-  
+- [JCZhang-i3](https://github.com/flaviusbuffon/dotfiles)
 
 ![JC-I3](./screenshots/jczhang-i3.png)
 
