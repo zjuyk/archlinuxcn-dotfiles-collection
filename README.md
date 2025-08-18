@@ -139,6 +139,13 @@
 
 - [Eliot's dotfiles](https://github.com/test482/dotfiles)
 
+    <details>
+    <summary>screenshot</summary>
+
+    ![Eliot Archlinux screenshot](./screenshots/eliot-archlinux-1.png)
+
+    </details>
+
 - [PILIHU2022-Hyprland](https://github.com/PILIHU2022/My-dotfiles)
 ![PILIHU2022-Hyprland](./screenshots/PILIHU2022-Hyprland.jpg)
 
