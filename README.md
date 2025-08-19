@@ -87,15 +87,13 @@
 
 ![dwmpo-light](./screenshots/ayamir-dwmpo-light.png)
 
-
 - [Coelacanthus-dot](https://github.com/CoelacanthusHex/dotfiles)
+
 - [RiverOnVenus-archlinux](https://github.com/RiverOnVenus/dotfiles)
 
 ![RiverOnVenus](./screenshots/RiverOnVenus.png)
 
-* [JCZhang-i3](https://github.com/flaviusbuffon/dotfiles)
-
-  
+- [JCZhang-i3](https://github.com/flaviusbuffon/dotfiles)
 
 ![JC-I3](./screenshots/jczhang-i3.png)
 
@@ -138,6 +136,13 @@
 ![Ruixi-rebirth-i3](./screenshots/Ruixi-rebirth-i3.gif)
 
 - [Eliot's dotfiles](https://github.com/test482/dotfiles)
+
+    <details>
+    <summary>screenshot</summary>
+
+    ![Eliot Archlinux screenshot](./screenshots/eliot-archlinux-1.png)
+
+    </details>
 
 - [PILIHU2022-Hyprland](https://github.com/PILIHU2022/My-dotfiles)
 ![PILIHU2022-Hyprland](./screenshots/PILIHU2022-Hyprland.jpg)
