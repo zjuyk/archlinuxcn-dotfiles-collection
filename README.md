@@ -155,7 +155,7 @@
 
     <details>
     <summary>custom gtk theme</summary>
-    [Materia-dark-trans-compact-wal](https://codeberg.org/Yulliil/Materia-dark-trans-compact-wal)
+    <a href="https://codeberg.org/Yulliil/Materia-dark-trans-compact-wal">Materia-dark-trans-compact-wal</a>
     </details>
 
 ![Yulliil-SwayFX](./screenshots/Yulliil-SwayFX.png)
