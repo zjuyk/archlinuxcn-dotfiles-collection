@@ -150,3 +150,12 @@
 - [LS-Shandong-archlinux](https://codeberg.org/LS-Shandong/dotfiles)
 
 ![LS-Shandong-archlinux](./screenshots/LS-Shandong-archlinux.png)
+
+- [Yulliil-SwayFX](https://codeberg.org/Yulliil/My_Artix_Configuration)
+
+    <details>
+    <summary>custom gtk theme</summary>
+    <a href="https://codeberg.org/Yulliil/Materia-dark-trans-compact-wal">Materia-dark-trans-compact-wal</a>
+    </details>
+
+![Yulliil-SwayFX](./screenshots/Yulliil-SwayFX.png)
